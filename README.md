@@ -80,16 +80,9 @@ Run Your Project
   npm run start
 ```
 
-#### `COLLABORATORS`
+created by : Ayush Mishra [ayushmishra1599@gmail.com]
 
-It was crafted within a team comprised of four members.
-
-- [@Ashvary Gidian](https://github.com/Ashvary1996)
-- [@MD Shahnawaz](https://github.com/Shahnawaz1967)
-- [@Sudhir kumar](https://github.com/Sudhir561)
-- [@Prachi Rajput](https://github.com/Prachi-Rajput)
 
 ## Feedback
 
-If you have any feedback, please reach out to us at ashvarygidian1996@gmail.com / prachirajput210497@gmail.com /
--ashahnawaz010@gmail.com / sudhirme101@gmail.com  
+If you have any feedback, please reach out to us at ayushmishra1599@gmail.com
