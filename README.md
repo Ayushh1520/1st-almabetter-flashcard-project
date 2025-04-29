@@ -33,7 +33,7 @@ This Project Consists of 3 main pages:
 
    If you have not created any flashcards, it will show "No Flashcards available".
 
-   ![screenshot(5)](https://github.com/Ashvary1996/flashcardgenerator/assets/89014041/0e37ed01-c8c0-4672-8838-c2779257e0e8)
+   ![screenshot(5)](https://github.com/user-attachments/assets/979158d0-8d44-4fe4-9efb-f2dc5d1e256b)
 
 3. ### `FlashCardDetails Page`
 
