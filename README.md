@@ -25,7 +25,7 @@ This Project Consists of 3 main pages:
    In this section, you can view all the card groups that have been created.  
    Each group is presented with a group heading, an associated group icon image, a description of the card group, the total count of cards within the group, and a button for accessing the cards on the subsequent page.
 
-   ![screenshot(3)](https://github.com/Ashvary1996/flashcardgenerator/assets/89014041/98601e96-12eb-47db-ae77-b486ef07bfd5)
+   ![screenshot(3)](![Image](https://github.com/user-attachments/assets/c8b92687-26a3-41bb-b6cb-4bd1fafa3e60))
 
    Modal for deleting single flashcard:
 
