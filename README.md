@@ -1,4 +1,4 @@
-Here’s your updated `README.md` content, modified to reflect that you are the sole creator and pointing to your repository:
+![image](https://github.com/user-attachments/assets/013d3354-874f-4bcd-8066-ae4b555fc1a1)Here’s your updated `README.md` content, modified to reflect that you are the sole creator and pointing to your repository:
 
 ---
 
@@ -29,7 +29,7 @@ This Project Consists of 3 main pages:
 
    Modal for deleting single flashcard:
 
-   ![screenshot(4)](https://github.com/Ashvary1996/flashcardgenerator/assets/89014041/043eda50-4e8e-42bc-8376-daff7debe9e0)
+   ![screenshot(4)](https://github.com/user-attachments/assets/3d2bd40e-fe66-4205-9c4b-63d897aa723f)
 
    If you have not created any flashcards, it will show "No Flashcards available".
 
@@ -41,7 +41,7 @@ This Project Consists of 3 main pages:
    Navigation between different flashcards is facilitated by clicking on the sidebar terms assigned to the cards during group creation.  
    Additionally, options for sharing, printing, and downloading the flashcards are available.
 
-   ![screenshot(6)](https://github.com/Ashvary1996/flashcardgenerator/assets/89014041/ae48bf99-b6d1-4db5-80af-d8abeb7250f9)
+   ![screenshot(6)](https://github.com/user-attachments/assets/3d2bd40e-fe66-4205-9c4b-63d897aa723f)
 
    This is the share page component which provides multiple options for sharing the page.
 
