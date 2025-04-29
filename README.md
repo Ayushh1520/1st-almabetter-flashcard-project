@@ -18,14 +18,14 @@ This Project Consists of 3 main pages:
 
    ![screenshot(1)](https://github.com/user-attachments/assets/c8b92687-26a3-41bb-b6cb-4bd1fafa3e60)
 
-   ![screenshot(2)](https://github.com/Ashvary1996/flashcardgenerator/assets/89014041/9e095c5e-0ae6-4803-bb0c-03fd07e15bd9)
+   ![screenshot(2)](https://github.com/user-attachments/assets/43f1ba61-7ea0-4dd8-905d-97a262d8921c)
 
 2. ### `MyFlashCard Page`
 
    In this section, you can view all the card groups that have been created.  
    Each group is presented with a group heading, an associated group icon image, a description of the card group, the total count of cards within the group, and a button for accessing the cards on the subsequent page.
 
-   ![screenshot(3)](![Image](https://github.com/user-attachments/assets/c8b92687-26a3-41bb-b6cb-4bd1fafa3e60))
+   ![screenshot(3)](![Image](https://github.com/Ayushh1520/1st-almabetter-flashcard-project/issues/3#issue-3029100240))
 
    Modal for deleting single flashcard:
 
