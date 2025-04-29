@@ -41,11 +41,11 @@ This Project Consists of 3 main pages:
    Navigation between different flashcards is facilitated by clicking on the sidebar terms assigned to the cards during group creation.  
    Additionally, options for sharing, printing, and downloading the flashcards are available.
 
-   ![screenshot(6)](https://github.com/user-attachments/assets/3d2bd40e-fe66-4205-9c4b-63d897aa723f)
+   ![screenshot(6)](https://github.com/user-attachments/assets/baffe04a-eae7-403c-be44-8278d480a8ee)
 
    This is the share page component which provides multiple options for sharing the page.
 
-   ![screenshot(7)](https://github.com/Ashvary1996/flashcardgenerator/assets/89014041/a6a0aaba-97f3-40d7-b62b-a3f93a29cedc)
+   ![screenshot(7)](https://github.com/user-attachments/assets/4905e7fb-5b2a-4a34-9be4-c9a7211760b4)
 
 ### `TECHNOLOGIES USED`
 
